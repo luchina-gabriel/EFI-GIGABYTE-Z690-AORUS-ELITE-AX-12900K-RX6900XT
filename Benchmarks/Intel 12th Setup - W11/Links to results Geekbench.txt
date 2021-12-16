@@ -1,0 +1,3 @@
+https://browser.geekbench.com/v5/compute/3921676
+https://browser.geekbench.com/v5/compute/3921678
+https://browser.geekbench.com/v5/cpu/11647185
