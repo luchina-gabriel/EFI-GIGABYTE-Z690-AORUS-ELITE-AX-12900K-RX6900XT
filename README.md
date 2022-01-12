@@ -44,3 +44,6 @@
 - [Opencore Team](https://dortania.github.io/getting-started/)
 - [BASE EFI - for 11th Intel Gen - Rocket Lake](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-11THGEN-ROCKET-LAKE)
 - tonymacx86.com - in special @etorix and @CaseySJ
+
+## Discord - Universo Hackintosh
+- [Access Discord](https://discord.universohackintosh.com.br)
