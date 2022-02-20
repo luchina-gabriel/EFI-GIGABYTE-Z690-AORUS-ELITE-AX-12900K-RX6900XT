@@ -55,7 +55,7 @@
 						AQAAAA==
 						</data>
 						<key>UsbConnector</key>
-						<integer>9</integer>
+						<integer>3</integer>
 					</dict>
 					<key>HS02</key>
 					<dict>
@@ -73,7 +73,7 @@
 						AwAAAA==
 						</data>
 						<key>UsbConnector</key>
-						<integer>9</integer>
+						<integer>3</integer>
 					</dict>
 					<key>HS04</key>
 					<dict>
@@ -82,7 +82,7 @@
 						BAAAAA==
 						</data>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>3</integer>
 					</dict>
 					<key>HS05</key>
 					<dict>
@@ -91,7 +91,7 @@
 						BQAAAA==
 						</data>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>3</integer>
 					</dict>
 					<key>HS06</key>
 					<dict>
@@ -100,7 +100,7 @@
 						BgAAAA==
 						</data>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>3</integer>
 					</dict>
 					<key>HS07</key>
 					<dict>
@@ -109,7 +109,7 @@
 						BwAAAA==
 						</data>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>3</integer>
 					</dict>
 					<key>HS08</key>
 					<dict>
@@ -118,7 +118,7 @@
 						CAAAAA==
 						</data>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>3</integer>
 					</dict>
 					<key>HS09</key>
 					<dict>
