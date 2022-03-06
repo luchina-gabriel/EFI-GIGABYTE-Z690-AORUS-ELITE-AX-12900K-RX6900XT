@@ -3,7 +3,7 @@
 
 **Latest working macOS**: 12.1
 <br>
-**Current OpenCore**: 0.7.7
+**Current OpenCore**: 0.7.8
 
 ## Complete hardware specs
 - Intel i9 12900K @ Stock (All cores (P+E+HT) activated)
