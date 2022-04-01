@@ -1,7 +1,8 @@
 # Gigabyte Z690 Aorus Elite AX + i9 12900K + RX 6900 XT + Fenvi BCM94360NG
-![overview-mr12 1](https://user-images.githubusercontent.com/23700365/146591193-deeea7c5-f945-444d-a5d9-9a5746ad9d64.png)
 
-**Latest working macOS**: 12.1
+![about](https://user-images.githubusercontent.com/23700365/161352933-28a6ecf7-9c5b-457a-a283-3544ba36735d.png)
+
+**Latest working macOS**: 12.3.1
 <br>
 **Current OpenCore**: 0.7.8
 
