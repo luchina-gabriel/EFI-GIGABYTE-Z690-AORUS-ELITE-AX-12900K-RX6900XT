@@ -2,9 +2,9 @@
 
 ![about-12 3 1](https://user-images.githubusercontent.com/23700365/161353027-9aaeddf5-7457-49a8-b322-4e99ab94c679.png)
 
-**Latest working macOS**: 12.3.1
+**Latest working macOS**: 12.4
 <br>
-**Current OpenCore**: 0.7.8
+**Current OpenCore**: 0.8.2
 
 ## Complete hardware specs
 - Intel i9 12900K @ Stock (All cores (P+E+HT) activated)
